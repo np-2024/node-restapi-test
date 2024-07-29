@@ -6,6 +6,9 @@
   "scripts": {
     "start": "node index.js"
   },
-  "author": "nehapokharka",
-  "license": "ISC"
+  "author": "nehapokharkar",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
 }
